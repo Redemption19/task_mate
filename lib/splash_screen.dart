@@ -44,7 +44,7 @@ class _SplashScreenState extends State<SplashScreen> {
             const SizedBox(
               height: 10,
             ),
-            buildText('Schedule your daily activities with ease', kWhiteColor, textTiny,
+            buildText('Schedule your daily activities with ease', kWhiteColor, textSmall,
                 FontWeight.normal, TextAlign.center, TextOverflow.clip),
           ],
         )));
